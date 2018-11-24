@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "sdkVersion": "29.0.0",
+    "name": "Ozone Mobile App",
+    "slug": "ozone mobile app",
+    "icon": "src/images/app-icon.png",
+    "privacy": "public"
+  }
+}
