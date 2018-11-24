@@ -10,6 +10,7 @@ const admin = require('firebase-admin');
 
 admin.initializeApp(functions.config().firebase);
 
+
 /**
   * Listens for updates to /users/:userId and creates an
   * full name attribute based on the first and last names
